@@ -39,7 +39,6 @@ class Azteca extends Warrior {
     }
 }
 
-// CADENA DE INTERCAMBIO DE GOLPES:
 
 // Crear instancias de los guerreros (ejemplos)
 const azteca = new Azteca(100, 15);
